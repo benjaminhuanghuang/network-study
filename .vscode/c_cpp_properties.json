@@ -2,15 +2,13 @@
   "configurations": [
     {
       "name": "Mac",
-      "includePath": [
-        "${workspaceFolder}/**"
-      ],
+      "includePath": ["/usr/local/"],
       "defines": [],
       "macFrameworkPath": [],
-      "compilerPath": "/usr/local/bin/gcc-10",
-      "cStandard": "gnu18",
-      "cppStandard": "gnu++14",
-      "intelliSenseMode": "gcc-x64"
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "clang-x64"
     }
   ],
   "version": 4
