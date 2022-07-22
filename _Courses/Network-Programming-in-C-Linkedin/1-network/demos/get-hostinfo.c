@@ -29,8 +29,6 @@ int main()
 		fprintf(stderr,"Can't obtain host data\n");
 		exit(1);
 	}
-
-  // display all address
 	printf("Address(es): ");
 	addresses = hostdata->h_addr_list;
 	while( *addresses )
