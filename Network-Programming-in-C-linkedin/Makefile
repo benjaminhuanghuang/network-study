@@ -3,4 +3,11 @@
 
 
 getmyip: 01_05-getmyip.c
-	gcc -o getmyip.exe $^
+	gcc -o $@.exe $^
+
+
+
+clean: 
+	rm -rf *.exe *.o
+
+	
