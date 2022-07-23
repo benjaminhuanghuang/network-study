@@ -10,3 +10,9 @@ run_provider: provider
 
 run_searcher: searcher
 	java UDPSearcher
+
+
+clean:
+	rm *.class
+
+	
