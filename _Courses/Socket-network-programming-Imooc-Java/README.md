@@ -9,12 +9,12 @@ https://github.com/samelltiger/mooc_socket
 
 - 1-1导学
 
-- 2-1什么是网络编程？
-- 2-2Socket与TCP、UDP
-- 2-3Socket
-- 2-4Socket
-- 2-5报文、协议、Mac地址
-- 2-6IP、端口及远程服务器
+- 2-1 什么是网络编程？
+- 2-2 Socket与TCP、UDP
+- 2-3 Socket
+- 2-4 Socket
+- 2-5 报文、协议、Mac地址
+- 2-6 IP、端口及远程服务器
 
 - 3-1UDP是什么
 - 3-2UDP核心API讲解
@@ -23,6 +23,7 @@ https://github.com/samelltiger/mooc_socket
 - 3-5案例实操-局域网搜索案例-1
 - 3-6案例实操-局域网搜索案例-2
 - 3-7案例实操-局域网搜索案例-3
+
 - 4-1TCP是什么、能做什么
 - 4-2TCP核心API讲解
 - 4-3TCP连接可靠性-三次握手、四次挥手
@@ -31,6 +32,7 @@ https://github.com/samelltiger/mooc_socket
 - 4-6案例实操-TCP传输初始化配置-2
 - 4-7案例实操-TCP基础数据传输-1
 - 4-8案例实操-TCP基础数据传输-2
+
 - 5-1UDP搜索IP与端口-1
 - 5-2UDP搜索IP与端口-2
 - 5-3点对点传输实现
